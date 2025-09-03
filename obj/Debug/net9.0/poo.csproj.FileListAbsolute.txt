@@ -1,0 +1,15 @@
+c:\workspace\dio\poo\bin\Debug\net9.0\poo.exe
+C:\workspace\dio\poo\bin\Debug\net9.0\poo.deps.json
+C:\workspace\dio\poo\bin\Debug\net9.0\poo.runtimeconfig.json
+c:\workspace\dio\poo\bin\Debug\net9.0\poo.dll
+c:\workspace\dio\poo\bin\Debug\net9.0\poo.pdb
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.AssemblyInfoInputs.cache
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.AssemblyInfo.cs
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.csproj.CoreCompileInputs.cache
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.sourcelink.json
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.dll
+c:\workspace\dio\poo\obj\Debug\net9.0\refint\poo.dll
+c:\workspace\dio\poo\obj\Debug\net9.0\poo.pdb
+C:\workspace\dio\poo\obj\Debug\net9.0\poo.genruntimeconfig.cache
+C:\workspace\dio\poo\obj\Debug\net9.0\ref\poo.dll
